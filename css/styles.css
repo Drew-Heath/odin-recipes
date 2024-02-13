@@ -1,0 +1,46 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #e9cca4;
+}
+
+.home, .list {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.home {
+  font-size: 75px;
+  font-weight: 700;
+}
+
+p, li {
+  font-size: 20px;
+}
+
+.home.list {
+  font-size: 50px;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #a4cce9;
+}
+
+h2 {
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.center-h2 {
+  text-align: center;
+}
